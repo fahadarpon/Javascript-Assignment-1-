@@ -25,4 +25,4 @@ function picnicBudget(amount) {
     return store;
 }
 
-console.log(picnicBudget(-300));
+console.log(picnicBudget(300));
