@@ -23,5 +23,5 @@ function oddFriend(names){
    
    }
    
-   let demoarray = oddFriend(['Rafi' ,"John","Robi",5,"Arpan","kamal","nilu","jamal"]);
+   let demoarray = oddFriend(['Rafi' ,"John","Robi","Arpan","kamal","nilu","jamal"]);
     console.log(demoarray);
